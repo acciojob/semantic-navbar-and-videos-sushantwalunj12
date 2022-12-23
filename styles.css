@@ -1,2 +1,22 @@
-
-/* Your CSS Code here. */
+ul, a{
+    padding-left: 19px;
+}
+h1{
+    color: #4B1F16;
+}
+.one{
+    position: absolute;
+    width: 355px;
+    margin-left: 25px;
+}
+.two{
+    position: absolute;
+    width: 355px;
+    margin-left: 500px;
+    /* margin-top: auto; */
+}
+.three{
+    position: absolute;
+    width: 355px;
+    margin-left: 1000px;
+}
